@@ -56,7 +56,7 @@ public class FootballPlayer {
         //Task 4 
         
         
-        if (age >= 18 && age < 35 && weight < 90) {
+        if (age >= 18 && age <= 35 && weight < 90) {
             System.out.println("Eligible");
         }
         else {
@@ -135,7 +135,7 @@ public class FootballPlayer {
 
         
         //Part B
-        /* 
+        
         switch (jerseyNumber) {
             
             case 2,5-> System.out.println("Defender");
@@ -143,11 +143,11 @@ public class FootballPlayer {
             case 7,11 -> System.out.println("Winger");
             default -> System.out.println("Player position not known");
         }
-        */
+        
         
 
         //Task 8 
-        /* 
+         
         if (age >=20 && age <30) {
             if (weight < 80) {
                 System.out.println("You're selected for starting line-up ");
@@ -157,7 +157,7 @@ public class FootballPlayer {
             else {
                 System.out.println("Bench");
             }
-        */
+        
 
         //Task 9 
         /* 

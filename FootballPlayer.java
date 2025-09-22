@@ -160,10 +160,10 @@ public class FootballPlayer {
         
 
         //Task 9 
-        /* 
+        
         System.out.println((age >= 18 && age < 35 && weight < 90) ? "Play" : "Rest" );
 
-        */
+        
     
 
     }
